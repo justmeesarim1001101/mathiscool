@@ -19,7 +19,7 @@ switch(Operation){
   break;
   case "SEcREt_code_123M":
   Equals = "So you found the secret code... The password is 1001101!"
-  window.open('mathiscool.github.io/funthingstodo.html', '_blank');
+  window.open('funthingstodo.html', '_blank');
   break;
 }
 if(Operation == "SEcREt_code_123M"){
