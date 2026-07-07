@@ -18,7 +18,7 @@ switch(Operation){
   Equals = NumOne / NumTwo;
   break;
   case "SEcREt_code_123M":
-  Equals = "So you found the secret code... The password is 1001101!"
+  Equals = "So you found the secret code... The password is 1001101! Also the username is"
   window.open('funthingstodo.html', '_blank');
   break;
 }
